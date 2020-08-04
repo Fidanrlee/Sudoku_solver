@@ -1,1 +1,3 @@
-# Sudoku_solver
+## Sudoku_solver
+
+https://en.wikipedia.org/wiki/Sudoku
